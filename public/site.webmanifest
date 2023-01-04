@@ -1,14 +1,14 @@
 {
-    "name": "acadenow",
-    "short_name": "acadenow",
-    "icons": [
-        {
-            "src": "/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#1e9335",
-    "background_color": "#1e9335",
-    "display": "standalone"
+  "name": "acadenow",
+  "short_name": "acadenow",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1e9335",
+  "background_color": "#1e9335",
+  "display": "standalone"
 }
