@@ -8,6 +8,7 @@ module.exports = {
         serif: ["ui-serif", "Georgia"],
         mono: ["ui-monospace", "SFMono-Regular"],
         poppins: ['Poppins, sans-serif'],
+        barlow: ['Barlow, sans-serif'],
       },
     },
   },
