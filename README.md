@@ -17,7 +17,7 @@
 - Clone the project
 
 ```bash
-git clone /
+git clone https://github.com/Lanr3waju/acadenow-website.git
 
 ```
 
