@@ -5,7 +5,7 @@ function App() {
     <div>
       <Nav />
     </div>
-  )
+  );
 }
 
 export default App;

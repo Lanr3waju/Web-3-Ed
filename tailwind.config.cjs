@@ -7,10 +7,10 @@ module.exports = {
         sans: ["ui-sans-serif", "system-ui"],
         serif: ["ui-serif", "Georgia"],
         mono: ["ui-monospace", "SFMono-Regular"],
-        poppins: ['Poppins, sans-serif'],
-        barlow: ['Barlow, sans-serif'],
+        poppins: ["Poppins, sans-serif"],
+        barlow: ["Barlow, sans-serif"],
       },
     },
   },
   plugins: [],
-}
+};
