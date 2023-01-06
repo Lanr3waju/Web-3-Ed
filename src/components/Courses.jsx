@@ -19,13 +19,17 @@ function Courses() {
 
       <li>
         <button className="mb-2 flex items-center" type="button">
-          <img className="w-10 inline m-2" src={ethereum} alt="javascript icon" />
+          <img
+            className="w-10 inline m-2"
+            src={ethereum}
+            alt="javascript icon"
+          />
           <span className="text-base font-semibold">
             Ethereum Developer Bootcamp
           </span>
         </button>
       </li>
-    </ul >
+    </ul>
   );
 }
 
