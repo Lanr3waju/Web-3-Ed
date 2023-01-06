@@ -1,26 +1,31 @@
-import js from "../images/javascript-seeklogo.com.svg";
+import js from "../images/javascript-39410.png";
 import ethereum from "../images/ethereum-classic-etc-logo.png";
 
 function Courses() {
   return (
-    <ul className="p-2 ml-2 border-green-200 rounded-xl border-4 border-solid">
-      <li className="mb-2 flex items-center">
-        <img
-          className="w-10 inline rounded-lg m-2"
-          src={js}
-          alt="javascript icon"
-        />
-        <span className="text-base font-poppins font-semibold">
-          JavaScript Fundamentals
-        </span>
-      </li>
+    <ul className="ml-2 border-gray-800 font-poppins border-x-4 border-solid">
       <li>
-        <img className="w-10 inline m-2" src={ethereum} alt="javascript icon" />
-        <span className="text-base font-poppins font-semibold">
-          Ethereum Developer Bootcamp
-        </span>
+        <button className="mb-2 flex items-center" type="button">
+          <img
+            className="w-10 inline rounded-lg m-2"
+            src={js}
+            alt="javascript icon"
+          />
+          <span className="text-base font-semibold">
+            JavaScript Fundamentals
+          </span>
+        </button>
       </li>
-    </ul>
+
+      <li>
+        <button className="mb-2 flex items-center" type="button">
+          <img className="w-10 inline m-2" src={ethereum} alt="javascript icon" />
+          <span className="text-base font-semibold">
+            Ethereum Developer Bootcamp
+          </span>
+        </button>
+      </li>
+    </ul >
   );
 }
 

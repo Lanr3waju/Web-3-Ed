@@ -6,7 +6,7 @@ function ToggleButton({ toggleMenu, open }) {
     <div>
       <button type="button" onClick={toggleMenu}>
         <img
-          className="w-8 h-8 mr-auto"
+          className="mr-auto"
           src={open ? close : hamburger}
           alt={hamburger}
         />
