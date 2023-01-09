@@ -43,7 +43,7 @@ function Main() {
         </button>
       </section>
       <section className="mt-52 text-center py-10 bg-gradient-to-b from-transparent via-lime-50 to-green-50">
-        <p className="text-xl font-barlow font-bold text-teal-900 tracking-wider">
+        <p className="text-xl font-barlow font-bold text-green-600 tracking-wider">
           choose your path
         </p>
         <h2 className="text-4xl mt-4 font-bold leading-relaxed">
@@ -86,8 +86,88 @@ function Main() {
           <img className="w-6 ml-2" src={rightArrow} alt="right arrow" />
         </button>
       </section>
+
+      <section className="text-xl font-barlow font-bold text-green-600 tracking-wider">
+        <p>course details</p>
+        <h2 className="text-4xl mt-4 font-bold tracking-wide leading-relaxed">
+          Start your web3 career
+        </h2>
+        <p className="text-lg py-4 font-semibold">
+          Our courses can jumpstart your career or let you switch gears.
+        </p>
+        <section>
+          <img src="" alt="" />
+          <h3>JavaScript Fundamentals</h3>
+          <h4>ABOUT THE COURSE</h4>
+          <p>
+            This JavaScript crash course covers the basics of programming
+            through advanced topics like asynchronous requests and promises. The
+            most used developer tools and libraries for Ethereum are JavaScript
+            based, making it a key foundation to web3 development. Each week
+            will have interactive coding challenges, videos, and tutorials.
+          </p>
+          <h4>SKILLS YOU'LL LEARN</h4>
+          <ul>
+            <li>BECOME A PROGRAMMER</li>
+            <li>FULLSTACK DEVELOPMENT</li>
+            <li>MASTER JAVASCRIPT</li>
+          </ul>
+          <ul>
+            <li>
+              <spam>Price:</spam> Free
+            </li>
+            <li>
+              <spam>Time to complete:</spam> 3 weeks
+            </li>
+            <li>
+              <spam>Skill level:</spam> Beginner
+            </li>
+            <li>
+              <spam>Pre-requisites:</spam> None
+            </li>
+          </ul>
+          <p>
+            This course gets you running with coding in one of the most popular
+            programming languages in the world. Great start prior to taking the
+            bootcamp.
+          </p>
+          <button
+            className="mt-8 bg-black shadow-md rounded-xl justify-center items-center mr-auto ml-auto font-semibold  w-4/6 h-16 shadow-green-900 text-white text-lg flex"
+            type="button"
+          >
+            <span>Get early access</span>
+            <img className="w-6 ml-2" src={rightArrow} alt="right arrow" />
+          </button>
+          <button
+            className="mt-8 bg-green-100 shadow-lg rounded-xl font-semibold  w-4/6 h-16 shadow-green-900 text-black text-lg"
+            type="button"
+          >
+            Login
+          </button>
+        </section>
+        <section>
+          <h3>CURRICULUM OVERVIEW</h3>
+          <ul>
+            <li>
+              <h4>Week 1</h4>
+              <p>Basics: functions, conditionals, loops, storage</p>
+            </li>
+            <li>
+              <h4>Week 2</h4>
+              <p>Data structures: arrays, maps, recursion</p>
+            </li>
+            <li>
+              <h4>Week 3</h4>
+              <p>Networks: local and asynchronous JS</p>
+            </li>
+          </ul>
+
+          <button type="button">Learn More</button>
+        </section>
+      </section>
+
       <section className="text-center py-40 px-4 bg-gradient-to-b from-teal-50 via-green-50 to-transparent">
-        <p className="text-xl font-barlow font-bold text-teal-900 tracking-wider">
+        <p className="text-xl font-barlow font-bold text-green-600 tracking-wider">
           community
         </p>
         <h2 className="text-4xl mt-4 font-bold tracking-wide leading-relaxed">
