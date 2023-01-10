@@ -1,6 +1,6 @@
 import { useState } from "react";
 import classNames from "classnames";
-import Courses from "./Courses";
+import Courses from "./CoursesMenu";
 import expandArrow from "../images/icons8-expand-arrow-50.png";
 
 function MobileMenu() {
