@@ -14,7 +14,10 @@ function CourseOverView({
   curriculum,
 }) {
   const takeawaySkillsEl = takeawaySkills.map((takeawaySkill) => (
-    <li key={takeawaySkill} className="bg-white uppercase p-4 rounded-3xl text-center shadow-md shadow-lime-700 my-3 tracking-wider ">
+    <li
+      key={takeawaySkill}
+      className="bg-white uppercase p-4 rounded-3xl text-center shadow-md shadow-lime-700 my-3 tracking-wider "
+    >
       {takeawaySkill}
     </li>
   ));
