@@ -14,13 +14,13 @@ function CourseOverView({
   curriculum,
 }) {
   const takeawaySkillsEl = takeawaySkills.map((takeawaySkill) => (
-    <li className="bg-white uppercase p-4 rounded-3xl text-center shadow-md shadow-lime-700 my-3 tracking-wider ">
+    <li key={takeawaySkill} className="bg-white uppercase p-4 rounded-3xl text-center shadow-md shadow-lime-700 my-3 tracking-wider ">
       {takeawaySkill}
     </li>
   ));
 
   const curriculumEl = curriculum.map(({ week, courseWork }) => (
-    <li className="my-8">
+    <li key={courseWork} className="my-8">
       <h4 className="font-bold text-lg">{week}</h4>
       <p>{courseWork}</p>
     </li>

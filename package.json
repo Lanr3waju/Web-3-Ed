@@ -11,6 +11,9 @@
     "lint": "npx eslint \"src/**/*.{js,jsx}\" --fix"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.7",
+    "@heroicons/react": "^2.0.13",
+    "@tailwindui/react": "^0.1.1",
     "classnames": "^2.3.2",
     "html-entities": "^2.3.3",
     "prettier": "^2.8.1",
