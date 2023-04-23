@@ -1,0 +1,138 @@
+{
+  "courses": [
+    {
+      "title": "Javascript Fundamentals",
+      "description": "This JavaScript crash course covers the basics of programming through advanced topics like asynchronous requests and promises. The most used developer tools and libraries for Ethereum are JavaScript based, making it a key foundation to web3 development.",
+      "activities": "Each week will have interactive coding challenges, videos, and tutorials.",
+      "takeawaySkills": [
+        "become a programmer",
+        "fullstack development",
+        "master javascript"
+      ],
+      "price": "Free",
+      "duration": "3 weeks",
+      "skillLevel": "Beginner",
+      "preRequisites": "None",
+      "details": "This course gets you running with coding in one of the most popular programming languages in the world. Great start prior to taking the bootcamp.",
+      "curriculum": [
+        {
+          "week": "Week 1",
+          "courseWork": "Accounts and data structures"
+        },
+        {
+          "week": "Week 2",
+          "courseWork": "Data structures: arrays, maps, recursion"
+        },
+        {
+          "week": "Week 3",
+          "courseWork": "Local and asynchronous JS"
+        }
+      ]
+    },
+    {
+      "title": "Ethereum Developer Bootcamp",
+      "description": "The Ethereum Developer Bootcamp is a comprehensive course that teaches you the fundamentals of web3 development. The course includes everything from typography to smart contracts to fully functional dApp development. This is the #1 resource to jumpstart your web3 career.",
+      "activities": "Content is released on a weakly basis with live sessions, interactive coding challenges, videos, guides and weekly projects",
+      "takeawaySkills": [
+        "become interview ready",
+        "master solidity",
+        "build smart contracts"
+      ],
+
+      "price": "Free",
+      "duration": "7 weeks",
+      "skillLevel": "Intermediate",
+      "preRequisites": "JS Fundamentals",
+
+      "details": "This course gets you running with coding in one of the most popular programming languages in the world. Great start prior to taking the bootcamp.",
+      "curriculum": [
+        {
+          "week": "Week 1",
+          "courseWork": "Blockchain cryptography fundamentals"
+        },
+        {
+          "week": "Week 2",
+          "courseWork": "Accounts and data structures"
+        },
+        {
+          "week": "Week 3",
+          "courseWork": "Ethereum clients, requests and libraries"
+        },
+        {
+          "week": "Week 4",
+          "courseWork": "Smart contract syntax and functions"
+        },
+        {
+          "week": "Week 5",
+          "courseWork": "Mastering solidity: events, security and data"
+        },
+        {
+          "week": "Week 6",
+          "courseWork": "Decentralized applications"
+        },
+        {
+          "week": "Week 7",
+          "courseWork": "Build the future: identify,  voting, exchanges and wallets"
+        }
+      ]
+    },
+    {
+      "title": "Road to web3",
+      "description": "In this self-paced, 10 project course, you'll learn from industry experts on the cutting edge of web3, meet fellow developers, supercharge your skills through real-world applications, and mint Proof-of-Knowledge NFTs.",
+      "activities": "Projects increase in difficulty and include video and written tutorials for the most relevant web3 use-cases, and rewarded you with coveted NFTs.",
+      "takeawaySkills": [
+        "develop a developer portfolio",
+        "build smart contracts",
+        "ful stack web3 applications"
+      ],
+      "price": "Free",
+      "duration": "10 weeks",
+      "skillLevel": "Intermediate",
+      "preRequisites": "JS Fundamentals",
+
+      "details": "This course gets you running with coding in one of the most popular programming languages in the world. Great start prior to taking the bootcamp.",
+      "curriculum": [
+        {
+          "week": "Week 1",
+          "courseWork": "Develop an NFT smart contract"
+        },
+        {
+          "week": "Week 2",
+          "courseWork": "Build a DeFidApp"
+        },
+        {
+          "week": "Week 3",
+          "courseWork": "Make NFTs with on-chain metadata"
+        },
+        {
+          "week": "Week 4",
+          "courseWork": "Create an NFT gallery"
+        },
+        {
+          "week": "Week 5",
+          "courseWork": "Connect APIs to your smart contract"
+        },
+        {
+          "week": "Week 6",
+          "courseWork": "Build a stacking application"
+        },
+        {
+          "week": "Week 7",
+          "courseWork": "Build an NFT marketplace"
+        },
+        {
+          "week": "Week 8",
+          "courseWork": "Ship a blockchain betting game"
+        },
+        {
+          "week": "Week 9",
+          "courseWork": "Build a token swap dApp"
+        },
+        {
+          "week": "Week 10",
+          "courseWork": "Create a decentralized Twitter app"
+        }
+      ]
+    }
+  ]
+}
