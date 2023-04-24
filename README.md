@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo Link](/)
+[Live Demo Link](https://acadenow-dev.netlify.app/)
 
 ### Development (Running locally)
 
